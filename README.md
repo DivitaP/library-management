@@ -1,2 +1,2 @@
 # library-management
-books management system powered by login/register system
+books management system powered by login/register system through MySQL
